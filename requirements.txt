@@ -1,0 +1,4 @@
+pedalboard==0.9.26
+soundfile==0.14.0
+gradio==6.32.0
+numpy==2.2.6
